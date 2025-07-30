@@ -1,0 +1,82 @@
+[
+    {
+        "imageSrc": "book.png",
+        "language": "HTML-TailWind CSS-JAVASCRIPT-REACT",
+        "link": "https://book-clone-gamma.vercel.app/",
+        "title": "Book-Clone",
+        "git": "https://github.com/MukeshMr06/Book-clone",
+        "para":"A web application that mimics an online bookstore, allowing users to browse and search for books. It offers a smooth and responsive user experience, showcasing key frontend skills like routing, state management, and API integration."
+    },
+    {
+        "imageSrc": "hotelbooking.png",
+        "language": "HTML-TailWind CSS-JAVASCRIPT-REACT",
+        "link": "https://hotel-booking-beta-ten.vercel.app/",
+        "title": "Hotel-Booking",
+        "git": "https://github.com/MukeshMr06/Hotel-Booking",
+        "para":"A hotel booking web application that allows users to search, view, and reserve rooms based on location, availability, and preferences. It offers a user-friendly interface highlighting features like dynamic and responsive design."
+    },
+    {
+        "imageSrc": "nostra.png",
+        "language": "HTML-TailWind CSS-JAVASCRIPT",
+        "link": "https://nostra-black.vercel.app/",
+        "title": "Nostra-Clone",
+        "git": "https://github.com/MukeshMr06/nostra",
+        "para":"A hotel booking web application that allows users to search, view, and reserve rooms based on location, availability, and preferences. It offers a user-friendly interface and simulates a real-world booking experience, highlighting."
+    },
+    {
+        "imageSrc": "netflix.png",
+        "language": "HTML-TailWind CSS-JAVASCRIPT-REACT",
+        "link": "https://udemey-clone.vercel.app/",
+        "title": "Netflix-Clone",
+        "git": "https://github.com/MukeshMr06/Netflix-clone",
+        "para":"A Netflix clone that streams movies and shows using real-time API data. Features include a modern UI, user authentication, responsive design, and dynamic content built with React, Firebase, and styled with Tailwind CSS."
+    },
+    {
+        "imageSrc": "tripadvisor.png",
+        "language": "HTML-TailWind CSS",
+        "link": "https://tripadvisor-kappa.vercel.app/",
+        "title": "TripAdviosr-Clone",
+        "git": "https://github.com/MukeshMr06/TRIPADVISOR",
+        "para":"A Tripadvisor clone for exploring destinations, hotels, and restaurants. Features include search, filtering, maps, reviews, and responsive design. Built with React, Google Maps API, and styled using Tailwind CSS."
+    },
+    {
+        "imageSrc": "udemy.png",
+        "language": "HTML-CSS",
+        "link": "https://udemey-clone.vercel.app/",
+        "title": "Udemy-Clone",
+        "git": "https://github.com/MukeshMr06/udemey-clone",
+        "para":"A Udemy clone 🎓 for browsing, enrolling 📚, and viewing 🎥 online courses. Features include course listings 🗂️, video playback ▶️, user login 🔐, and responsive design 📱. Built with React ⚛️, Firebase 🔥, and Tailwind CSS 🎨."
+    },
+    {
+        "imageSrc": "weather.png",
+        "language": "HTML-TailWind CSS-REACT",
+        "link": "https://weather-app-tawny-three-11.vercel.app/",
+        "title": "Weather-Clone",
+        "git": "https://github.com/MukeshMr06/Weather-APP-",
+        "para":"A responsive weather app 🌤️ built with HTML, Tailwind CSS, and JavaScript. It fetches real-time weather data using APIs and displays temperature, conditions, and location info with a clean UI 📱."
+    },
+    {
+        "imageSrc": "actodo.png",
+        "language": "HTML-TailWind CSS-REACT",
+        "link": "https://actodoproject-olive.vercel.app/",
+        "title": "Actodo-Clone",
+        "git": "https://github.com/MukeshMr06/Actodoproject",
+        "para":"Actodo ✅ is a task management web app built using HTML, CSS, JavaScript, and React ⚛️. It allows users to add, edit, complete, and delete tasks with a clean, responsive UI 📱. Tasks are stored in local storage for persistence."
+    },
+    {
+        "imageSrc": "greenden.png",
+        "language": "HTML-TailWind CSS",
+        "link": "https://green-den-pearl.vercel.app/",
+        "title": "Greenden",
+        "git": "https://github.com/MukeshMr06/GreenDen",
+        "para":"Greenden is a responsive landing page for a plant shop, built with HTML and styled using Tailwind CSS. It features a clean design, modern layout, and mobile-friendly interface to showcase products effectively."
+    },
+    {
+        "imageSrc": "bmi.png",
+        "language": "HTML-TailWind CSS-REACT",
+        "link": "https://bmi-mu-ten.vercel.app/",
+        "title": "BMI-Clone",
+        "git": "https://github.com/MukeshMr06/BMI",
+        "para":"A BMI (Body Mass Index) calculator web app built with HTML, Tailwind CSS, and React. It allows users to input height and weight to calculate BMI instantly, with responsive design and clear health category feedback."
+    }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "javascript.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "react.png"
+  },
+  {
+    "title": "Tailwind CSS",
+    "imageSrc": "tailwind.png"
+  },
+  {
+    "title":"Firebase",
+    "imageSrc":"firebase.png"
+  },
+  {
+    "title": "GIT",
+    "imageSrc": "git.png"
+  },
+  {
+    "title": "GIT HUB",
+    "imageSrc": "github.png"
+  },
+  {
+    "title": "Vercel",
+    "imageSrc": "vercel.png"
+  }
+]
