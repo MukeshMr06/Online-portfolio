@@ -6,7 +6,7 @@ import { VscGithubAlt } from "react-icons/vsc";
 
 const Contact = () => {
     return (
-        <div>
+        <div id='contact' className='contact scroll-mt-20 py-10'>
             <h1 className='text-center text-5xl'>Contact</h1>
             <div className='text-center  gap-4'>
                 <h2 className='text-2xl mt-6'>Let's Talk</h2>

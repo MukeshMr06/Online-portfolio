@@ -17,29 +17,25 @@ const high = (<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 2
 
 const About = () => {
   return (
-    <div className='bg-black text-white'>
-      <h1 className='text-center  text-2xl md:text-5xl'>About</h1>
+    <div id='about' className='scroll-mt-20 about bg-[#141413] text-white py-7'>
+
+      <h1 className='text-center text-2xl md:text-5xl'>About</h1>
+
       <div className='flex flex-col mx-4 md:flex-row items-center justify-center gap-10 mt-8'>
-        <p className='md:w-80 md:text-2xl'>I am a Frontend Developer with hands-on experience in HTML, CSS, JavaScript, and React.
+        <p className='text-sm md:w-90 md:text-2xl'>I am a Frontend Developer with hands-on experience in HTML, CSS, JavaScript, and React.
           I specialize in building responsive, user-friendly web interfaces and have strong version control skills using Git and GitHub.
           I'm passionate about creating clean, efficient code and continuously learning modern frontend tools and best practices.
         </p>
-        <img src="./about.jpg" alt="" className='w-90 md:h-90' />
+        <img src="./about.jpg" alt="" className='w-90 md:h-[420px] rounded' />
       </div>
 
-      <div>
+      <h1 className='text-center text-5xl mt-12 mb-2'>Education</h1>
 
-        <h1 className='text-center text-5xl mt-12 '>Education</h1>
-
-        <div className='flex flex-col gap-4 items-center mt-12 md:flex-row justify-center md:gap-10'>
-          <Education College="St. Joseph's College (Autonomous)" degree="B.Sc in Computer Science" year="June 2021 - May 2024" icon={Custom} />
-          <Education College="E.R.Higher Secondary School" degree="Senior Secondary School" year="June 2019 - April 2021" icon={senior} />
-          <Education College="Sri Vignesh Vidayalya (CBSE)" degree="Secondary School" year="June 2018- March 2019" icon={high}/>
-
-        </div>
-
+      <div className='flex flex-col text-sm gap-4 items-center mt-12 md:flex-row justify-center md:gap-10'>
+        <Education College="St. Joseph's College (Autonomous)" degree="B.Sc in Computer Science" year="June 2021 - May 2024" icon={Custom} />
+        <Education College="E.R.Higher Secondary School" degree="Senior Secondary School" year="June 2019 - April 2021" icon={senior} />
+        <Education College="Sri Vignesh Vidayalya (CBSE)" degree="Secondary School" year="June 2018- March 2019" icon={high} />
       </div>
-
     </div>
   )
 }

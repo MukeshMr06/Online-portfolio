@@ -5,7 +5,7 @@ import Typeeffect from './Typeeffect'
 const Hero = () => {
     return (
 
-        <div className='bg-black text-white text-center py-16'>
+        <div id='home' className='hero scroll-mt-24 bg-black text-white text-center py-16'>
             <div className='max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-8 items-center px-6'>
 
                 <div className='flex justify-center'>
@@ -25,7 +25,7 @@ const Hero = () => {
                     </p>
                     <div className='mt-6'>
                         <a href="/MUKESH.pdf" download>
-                            <button className='bg-red-400 rounded cursor-pointer p-1 font-semibold'>Resume</button>
+                            <button className='bg-red-400 rounded cursor-pointer p-1 text-2xl font-semibold'>Resume</button>
                    </a>
                     </div>
                 </div>

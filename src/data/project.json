@@ -26,7 +26,7 @@
     {
         "imageSrc": "netflix.png",
         "language": "HTML-TailWind CSS-JAVASCRIPT-REACT",
-        "link": "https://udemey-clone.vercel.app/",
+        "link": "http://localhost:5174/",
         "title": "Netflix-Clone",
         "git": "https://github.com/MukeshMr06/Netflix-clone",
         "para":"A Netflix clone that streams movies and shows using real-time API data. Features include a modern UI, user authentication, responsive design, and dynamic content built with React, Firebase, and styled with Tailwind CSS."
