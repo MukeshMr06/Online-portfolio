@@ -21,15 +21,15 @@ const About = () => {
 
       <h1 className='text-center text-2xl md:text-5xl'>About</h1>
 
-      <div className='flex flex-col mx-4 md:flex-row items-center justify-center gap-10 mt-8'>
-        <p className='text-sm md:w-90 md:text-2xl'>I am a Frontend Developer with hands-on experience in HTML, CSS, JavaScript, and React.
+      <div className='flex flex-col mx-4 md:flex-row items-center justify-around mt-6'>
+        <p className='text-sm md:w-120 md:text-2xl'>I am a Frontend Developer with hands-on experience in HTML, CSS, JavaScript, and React.
           I specialize in building responsive, user-friendly web interfaces and have strong version control skills using Git and GitHub.
           I'm passionate about creating clean, efficient code and continuously learning modern frontend tools and best practices.
         </p>
-        <img src="./about.jpg" alt="" className='w-90 md:h-[420px] rounded' />
+        <img src="./about.gif" alt="" className='mb-12 mt-4 md:h-[420px] rounded' />
       </div>
 
-      <h1 className='text-center text-5xl mt-12 mb-2'>Education</h1>
+      <h1 className='text-center text-5xl '>Education</h1>
 
       <div className='flex flex-col text-sm gap-4 items-center mt-12 md:flex-row justify-center md:gap-10'>
         <Education College="St. Joseph's College (Autonomous)" degree="B.Sc in Computer Science" year="June 2021 - May 2024" icon={Custom} />
