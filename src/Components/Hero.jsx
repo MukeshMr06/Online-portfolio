@@ -24,7 +24,7 @@ const Hero = () => {
                         frontend/backend development, version control, and deployment workflows.
                     </p>
                     <div className='mt-6'>
-                        <a href="/MUKESH.pdf" download>
+                        <a href="/MUKESH (2).pdf" download>
                             <button className='bg-red-400 rounded cursor-pointer p-1 text-2xl font-semibold'>Resume</button>
                    </a>
                     </div>
