@@ -17,19 +17,24 @@ const high = (<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 2
 
 const About = () => {
   return (
-    <div id='about' className='scroll-mt-20 about bg-[#141413] text-white py-7'>
+    <div id='about' className='scroll-mt-20 about  bg-[#141413] text-white py-7'>
 
-      <h1 className='text-center text-2xl md:text-5xl'>About</h1>
+      <h1 className='text-center text-2xl hover:text-red-400 duration-300  md:text-5xl'>About</h1>
 
-      <div className='flex flex-col mx-4 md:flex-row items-center justify-around mt-6'>
-        <p className='text-sm md:w-120 md:text-2xl'>I am a Frontend Developer with hands-on experience in HTML, CSS, JavaScript, and React.
-          I specialize in building responsive, user-friendly web interfaces and have strong version control skills using Git and GitHub.
-          I'm passionate about creating clean, efficient code and continuously learning modern frontend tools and best practices.
-        </p>
-        <img src="./about.gif" alt="" className='mb-12 mt-4 md:h-[420px] rounded' />
-      </div>
+     <div className="flex flex-col items-center text-center sm:mx-6 md:flex-row md:text-left md:items-center md:justify-around mt-6 p-4 rounded-lg shadow-md">
+  <p className="text-base sm:text-lg md:w-1/2 md:text-2xl leading-relaxed">
+    I am a Frontend Developer with hands-on experience in HTML, CSS, JavaScript, and React.
+    I specialize in building responsive, user-friendly web interfaces and have strong version control skills using Git and GitHub.
+    I'm passionate about creating clean, efficient code and continuously learning modern frontend tools and best practices.
+  </p>
+  
+  <img
+    src="/about.gif" 
+    alt="About me" className="mt-4 mb-6 md:mb-0 md:mt-0 md:h-[420px] rounded-lg shadow-lg"
+  />
+</div>
 
-      <h1 className='text-center text-5xl '>Education</h1>
+      <h1 className='text-center text-5xl hover:text-red-400 duration-300 '>Education</h1>
 
       <div className='flex flex-col text-sm gap-4 items-center mt-12 md:flex-row justify-center md:gap-10'>
         <Education College="St. Joseph's College (Autonomous)" degree="B.Sc in Computer Science" year="June 2021 - May 2024" icon={Custom} />

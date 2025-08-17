@@ -4,8 +4,8 @@ import project from '../data/project.json'
 const Project = () => {
     return (
         <div id='project' className='scroll-mt-20 project py-10'>
-            <h1 className='text-5xl text-center mt-5'>Project</h1>
-                <div className='mx-10'>
+            <h1 className='text-5xl text-center py-10 hover:text-red-400 duration-500'>Project</h1>
+                <div className='p-3'>
                     {
                         project.map((data, index) => (
                             <div className={` justify-around gap-4 mt-4  items-center ${index % 2 == 0 ? 'flex-row-reverse' : 'flex-row'} md:flex  gap-10 mb-16` } key={data.id}>

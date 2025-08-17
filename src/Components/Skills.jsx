@@ -5,7 +5,7 @@ const Skills = () => {
     return (
 
         <div id='skills' className='skills scroll-mt-20 bg-[#141413] mt-10 py-6 text-white' >
-            <h1 className=' text-5xl text-center mb-6 mt-8'>Skills</h1>
+            <h1 className=' text-5xl text-center mb-6 mt-8 hover:text-red-400 duration-300'>Skills</h1>
             <div className='mx-10 grid grid-cols-2 md:grid-cols-3 gap-3'>
                 {
                     skills.map((data) => (

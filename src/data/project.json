@@ -24,14 +24,6 @@
         "para":"A hotel booking web application that allows users to search, view, and reserve rooms based on location, availability, and preferences. It offers a user-friendly interface and simulates a real-world booking experience, highlighting."
     },
     {
-        "imageSrc": "netflix.png",
-        "language": "HTML-TailWind CSS-JAVASCRIPT-REACT",
-        "link": "http://localhost:5174/",
-        "title": "Netflix-Clone",
-        "git": "https://github.com/MukeshMr06/Netflix-clone",
-        "para":"A Netflix clone that streams movies and shows using real-time API data. Features include a modern UI, user authentication, responsive design, and dynamic content built with React, Firebase, and styled with Tailwind CSS."
-    },
-    {
         "imageSrc": "tripadvisor.png",
         "language": "HTML-TailWind CSS",
         "link": "https://tripadvisor-kappa.vercel.app/",
@@ -70,13 +62,5 @@
         "title": "Greenden",
         "git": "https://github.com/MukeshMr06/GreenDen",
         "para":"Greenden is a responsive landing page for a plant shop, built with HTML and styled using Tailwind CSS. It features a clean design, modern layout, and mobile-friendly interface to showcase products effectively."
-    },
-    {
-        "imageSrc": "bmi.png",
-        "language": "HTML-TailWind CSS-REACT",
-        "link": "https://bmi-mu-ten.vercel.app/",
-        "title": "BMI-Clone",
-        "git": "https://github.com/MukeshMr06/BMI",
-        "para":"A BMI (Body Mass Index) calculator web app built with HTML, Tailwind CSS, and React. It allows users to input height and weight to calculate BMI instantly, with responsive design and clear health category feedback."
     }
 ]
