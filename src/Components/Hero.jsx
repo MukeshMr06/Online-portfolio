@@ -18,12 +18,12 @@ const Hero = () => {
                            to-blue-500'><Typeeffect /></span>
                     </h1>
                     <p className='text-gray-300  md:text-lg'>Enthusiastic Frontend Developer fresher with skills in HTML, CSS, Tailwind CSS, JavaScript, and React.
-                        Proficient in using Git/GitHub for version control and deploying projects on Firebase and Vercel.
+                        Proficient in using Git/GitHub for version control and deploying projects on Vercel.
                         Passionate about creating responsive, user-friendly, and efficient web applications.
                     </p>
                     <div className='mt-6'>
-                        <a href="/Mukesh-Resume.pdf" download>
-                            <button className='bg-red-400 rounded cursor-pointer p-1 text-2xl font-semibold'>Resume</button>
+                        <a href="/Mukesh.pdf" download>
+                            <button className='bg-red-400 rounded cursor-pointer px-2 py-1 text-2xl font-semibold'>Resume</button>
                         </a>
                     </div>
                 </div>
