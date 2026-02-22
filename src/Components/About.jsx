@@ -23,9 +23,8 @@ const About = () => {
 
      <div className="flex flex-col items-center text-center sm:mx-6 md:flex-row md:text-left md:items-center md:justify-around mt-6 p-4 rounded-lg shadow-md">
   <p className="text-base sm:text-lg md:w-1/2 md:text-2xl leading-relaxed">
-    I am a Frontend Developer with hands-on experience in HTML, CSS, JavaScript, and React.
-    I specialize in building responsive, user-friendly web interfaces and have strong version control skills using Git and GitHub.
-    I'm passionate about creating clean, efficient code and continuously learning modern frontend tools and best practices.
+   I am an aspiring Full Stack Developer with practical experience in React.js, Node.js, Express.js, SQL, HTML, CSS, Tailwind CSS, and JavaScript. I have worked on developing complete web applications, handling both frontend interfaces and backend functionality.
+   I am comfortable using Git and GitHub for version control and have deployed full-stack applications using platforms like Vercel and aaPanel. My project experience includes implementing JWT-based authentication, integrating REST APIs, managing real-time data with WebSockets.
   </p>
   
   <img
