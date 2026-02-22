@@ -45,7 +45,7 @@
         "link": "https://udemey-clone.vercel.app/",
         "title": "Udemy-Clone",
         "git": "https://github.com/MukeshMr06/udemey-clone",
-        "para":"A Udemy clone 🎓 for browsing, enrolling 📚, and viewing 🎥 online courses. Features include course listings 🗂️, video playback ▶️, user login 🔐, and responsive design 📱. Built with React ⚛️, Firebase 🔥, and Tailwind CSS 🎨."
+        "para":"A Udemy clone for browsing, enrolling, and viewing online courses. Features include course listings, video playback, user login, and responsive design. Built with React, Firebase, and Tailwind CSS."
     },
     {
         "imageSrc": "weather.png",
@@ -53,7 +53,7 @@
         "link": "https://weather-app-tawny-three-11.vercel.app/",
         "title": "Weather-Clone",
         "git": "https://github.com/MukeshMr06/Weather-APP-",
-        "para":"A responsive weather app 🌤️ built with HTML, Tailwind CSS, and JavaScript. It fetches real-time weather data using APIs and displays temperature, conditions, and location info with a clean UI 📱."
+        "para":"A responsive weather app built with HTML, Tailwind CSS, and JavaScript. It fetches real-time weather data using APIs and displays temperature, conditions, and location info with a clean UI."
     },
     {
         "imageSrc": "actodo.png",
@@ -61,7 +61,7 @@
         "link": "https://actodoproject-olive.vercel.app/",
         "title": "Actodo-Clone",
         "git": "https://github.com/MukeshMr06/Actodoproject",
-        "para":"Actodo ✅ is a task management web app built using HTML, CSS, JavaScript, and React ⚛️. It allows users to add, edit, complete, and delete tasks with a clean, responsive UI 📱. Tasks are stored in local storage for persistence."
+        "para":"Actodo is a task management web app built using HTML, CSS, JavaScript, and React. It allows users to add, edit, complete, and delete tasks with a clean, responsive UI. Tasks are stored in local storage for persistence."
     },
     {
         "imageSrc": "greenden.png",
