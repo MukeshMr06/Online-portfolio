@@ -30,7 +30,7 @@ const About = () => {
   
   <img
     src="/about.gif" 
-    alt="About me" className="mt-4 mb-6 md:mb-0 md:mt-0 md:h-[420px] rounded-lg shadow-lg"
+    alt="About me" className="mt-4 mb-6 md:mb-0 md:mt-0 md:h-[420px] rounded-lg shadow-lg"  
   />
 </div>
 

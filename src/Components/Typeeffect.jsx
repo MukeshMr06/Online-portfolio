@@ -7,7 +7,7 @@ const Typeeffect = () => {
 
     useEffect(()=>{
          const typed = new Typed(current.current, {
-      strings: ["Mukesh","Frontend Developer"],
+      strings: ["Mukesh","Fullstack Developer"],
       typeSpeed: 100,
       backSpeed: 200,
       backDelay: 1000,

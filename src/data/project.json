@@ -1,4 +1,12 @@
 [
+        {
+        "imageSrc": "doinfx.png",
+        "language": "React js, Javascript, Express js, MySQL, Tailwind Css",
+        "link": "https://dointrade.com/login",
+        "title": "Doin-FX",
+        "git": "https://github.com/MukeshMr06/Book-clone",
+        "para":"Developed Doin FX, a real-time trading platform featuring secure authentication, live market data, buy/sell order execution, and profit/loss tracking using React.js, Node.js, Express.js, and SQL."
+    },
     {
         "imageSrc": "book.png",
         "language": "HTML-TailWind CSS-JAVASCRIPT-REACT",

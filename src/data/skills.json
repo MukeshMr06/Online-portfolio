@@ -20,6 +20,14 @@
     "imageSrc": "tailwind.png"
   },
   {
+    "title": "Express",
+    "imageSrc": "Express.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "sql.png"
+  },
+  {
     "title": "GIT",
     "imageSrc": "git.png"
   },
